@@ -49,4 +49,15 @@ In command mode:
 
 `%matplotlib inline`
 
+In a Jupyter Notebook you can **import data** from:
+* CSV files
+* XML files
+* Excel files
+* APIs
+
+
 **requests** library, to connect to an API and extract data.
+
+**bokeh** library for interactive charts.
+
+Output to **Excel**: `pd.ExcelWriter('filename.xlsx')`
