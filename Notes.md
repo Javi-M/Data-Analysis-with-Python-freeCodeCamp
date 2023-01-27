@@ -45,7 +45,7 @@ In command mode:
 * **M** - turns current cell into markdown.
 * **Y** - turns current cell into Python code
 * **Ctrl + return** - runs the cell
-* ***Shift + return** - runs the cell and goes to the next one
+* **Shift + return** - runs the cell and goes to the next one
 
 `%matplotlib inline`
 
@@ -61,3 +61,6 @@ In a Jupyter Notebook you can **import data** from:
 **bokeh** library for interactive charts.
 
 Output to **Excel**: `pd.ExcelWriter('filename.xlsx')`
+
+# Numpy
+## Numpy Introduction A
