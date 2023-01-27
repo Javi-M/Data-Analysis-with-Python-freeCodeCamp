@@ -36,3 +36,17 @@ Data Scientist usually have more maths and programming skills. Data Analysts hav
 
 ## Libraries
 pandas, matplotlib, numpy, seaborn, statsmodels, scipy, scikit-learn.
+
+
+# Jupyter Notebooks, Pandas, etc (RENAME THIS)
+Jupyter Notebooks is a mode-based editor. The behaviour depends on the mode: editing mode, command mode. _Escape_ key is used to switch modes.
+Navigate with arrow keys. \
+In command mode:
+* **M** - turns current cell into markdown.
+* **Y** - turns current cell into Python code
+* **Ctrl + return** - runs the cell
+* ***Shift + return** - runs the cell and goes to the next one
+
+`%matplotlib inline`
+
+**requests** library, to connect to an API and extract data.
