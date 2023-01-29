@@ -10,4 +10,4 @@ repositories. In commits these are be referenced as [1], [2], etc.
 * [1] [FreeCodeCamp-Pandas-Real-Life-Example](https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example)
 * [2] [ds-content-interactive-jupyterlab-tutorial](https://github.com/ine-rmotr-curriculum/ds-content-interactive-jupyterlab-tutorial)
 * [3] [freecodecamp-intro-to-numpy](https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-numpy)
-* 
+* [4] [freecodecamp-intro-to-pandas](https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-pandas)
