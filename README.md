@@ -12,3 +12,4 @@ repositories. In commits these are be referenced as [1], [2], etc.
 * [3] [freecodecamp-intro-to-numpy](https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-numpy)
 * [4] [freecodecamp-intro-to-pandas](https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-pandas)
 * [5] [data-cleaning-rmotr-freecodecamp](https://github.com/ine-rmotr-curriculum/data-cleaning-rmotr-freecodecamp)
+* [6] [RDP-Reading-Data-with-Python-and-Pandas](https://github.com/krishnatray/RDP-Reading-Data-with-Python-and-Pandas)
