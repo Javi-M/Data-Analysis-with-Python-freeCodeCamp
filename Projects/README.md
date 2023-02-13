@@ -1,9 +1,11 @@
 In order to pass the curse, some projects are required to be completed in the **replit** platform.
 
-These projects are:
+Most part of code and files are given, and in each project one file contains parts to be completed.
 
-* Mean-Variance-Standard Deviation Calculator
-* Demographic Data Analyzer
+These projects are:
+* [Mean-Variance-Standard Deviation Calculator](https://github.com/freeCodeCamp/boilerplate-mean-variance-standard-deviation-calculator)
+    * File for the student to complete: `mean_var_std.py`
+* [Demographic Data Analyzer](https://github.com/freeCodeCamp/boilerplate-demographic-data-analyzer)
 * Medical Data Visualizer
 * Page View Time Series Visualizer
 * Sea Level Predictor
