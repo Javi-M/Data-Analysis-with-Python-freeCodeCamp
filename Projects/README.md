@@ -6,6 +6,7 @@ These projects are:
 * [Mean-Variance-Standard Deviation Calculator](https://github.com/freeCodeCamp/boilerplate-mean-variance-standard-deviation-calculator)
     * File for the student to complete: `mean_var_std.py`
 * [Demographic Data Analyzer](https://github.com/freeCodeCamp/boilerplate-demographic-data-analyzer)
+    * File for the student to complete: `demographic_data_analyzer.py`
 * Medical Data Visualizer
 * Page View Time Series Visualizer
 * Sea Level Predictor
